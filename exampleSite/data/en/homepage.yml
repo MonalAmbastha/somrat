@@ -7,7 +7,7 @@ hero:
   - Vocalist
   slider_image:
   - "/images/1.jpg"
-  - images/slider/slider-2.jpg
+  - "/images/2.jpg"
   - images/slider/slider-3.jpg
   button:
     enable: true
