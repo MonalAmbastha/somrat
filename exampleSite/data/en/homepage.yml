@@ -74,8 +74,6 @@ service:
     image: images/icons/graphic-design.png
   - name: Hand Rendering
     image: images/icons/dbms.png
-  - name: Hand Modelling
-    image: ''
 call_to_action:
   enable: true
   bg_image: images/backgrounds/need-service.jpg
