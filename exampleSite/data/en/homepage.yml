@@ -64,17 +64,17 @@ skill:
     parcentage: 70%
 service:
   enable: true
-  title: SERVICES
+  title: TOOLS
   service_list:
-  - name: Web Development
+  - name: Adobe XD
     image: images/icons/web-development.png
-  - name: Graphic Design
+  - name: Figma
     image: images/icons/graphic-design.png
-  - name: Database Management
+  - name: Illustrator
     image: images/icons/dbms.png
-  - name: Software Development
+  - name: Photoshop
     image: images/icons/software-development.png
-  - name: Digital Marketing
+  - name: Balsamiq
     image: images/icons/marketing.png
   - name: Mobile App Development
     image: images/icons/mobile-app.png
