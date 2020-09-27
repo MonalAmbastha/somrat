@@ -54,6 +54,8 @@ skill:
   enable: true
   title: SKILL
   skill_list:
+  - name: Balsamiq
+    parcentage: 95%
   - name: Adobe XD
     parcentage: 75%
   - name: Figma
