@@ -58,10 +58,10 @@ skill:
     parcentage: 75%
   - name: Figma
     parcentage: 60%
-  - name: Database Management
+  - name: Photoshop
     parcentage: 90%
-  - name: Wordpress
-    parcentage: 70%
+  - name: Illustrator
+    parcentage: 80%
 service:
   enable: true
   title: TOOLS
