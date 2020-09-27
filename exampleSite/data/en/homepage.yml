@@ -6,7 +6,7 @@ hero:
   - UX Designer
   - Vocalist
   slider_image:
-  - images/slider/slider-1.jpg
+  - "/images/1.jpg"
   - images/slider/slider-2.jpg
   - images/slider/slider-3.jpg
   button:
