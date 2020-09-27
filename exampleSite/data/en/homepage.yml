@@ -68,9 +68,9 @@ service:
   enable: true
   title: TOOLS
   service_list:
-  - name: Adobe XD
+  - name: Sketching
     image: images/icons/web-development.png
-  - name: Figma
+  - name: Logo Design
     image: images/icons/graphic-design.png
   - name: Illustrator
     image: images/icons/dbms.png
