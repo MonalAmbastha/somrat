@@ -54,16 +54,16 @@ skill:
   enable: true
   title: SKILL
   skill_list:
-  - name: Balsamiq
-    parcentage: 95%
   - name: Adobe XD
-    parcentage: 75%
+    parcentage: 80%
   - name: Figma
     parcentage: 60%
   - name: Photoshop
     parcentage: 90%
   - name: Illustrator
     parcentage: 80%
+  - name: Balsamiq
+    parcentage: 95%
 service:
   enable: true
   title: TOOLS
