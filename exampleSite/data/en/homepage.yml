@@ -15,7 +15,7 @@ hero:
     link: "#contact"
 fullscreen_nav:
   enable: true
-  bg_image: images/backgrounds/full-nav-bg.jpg
+  bg_image: "/images/dsc_0155.JPG"
   first_name: Monal
   last_name: Ambastha
 about:
