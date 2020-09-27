@@ -46,11 +46,6 @@ experience:
     duration: " 1 month (2018)"
     content: Involved with preparation of mood boards, preliminary client presentations,
       floor planning, 3-D modelling etc.
-  - name: Database Manager
-    company: Polytechnic
-    duration: 2014-2018
-    content: Database management is among the fundamental processes in the software
-      field of computing. I know MS Access very well.
 skill:
   enable: true
   title: SKILL
