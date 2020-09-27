@@ -85,7 +85,8 @@ portfolio:
   - name: Project <br> Title
     image: images/portfolio/item1.jpg
     date: Feb 2018
-    category: Web Development
+    category:
+    - Web Design
   - name: Project <br> Title
     image: images/portfolio/item2.jpg
     date: Feb 2018
