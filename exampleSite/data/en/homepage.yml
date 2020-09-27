@@ -69,7 +69,7 @@ service:
   title: TOOLS
   service_list:
   - name: Sketching
-    image: images/icons/web-development.png
+    image: C:\Users\Monal\Desktop\My Website Portfolio
   - name: Logo Design
     image: images/icons/graphic-design.png
   - name: Hand Rendering
