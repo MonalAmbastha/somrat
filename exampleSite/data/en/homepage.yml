@@ -90,19 +90,19 @@ portfolio:
   - name: Project <br> Title
     image: images/portfolio/item2.jpg
     date: Feb 2018
-    category: Web Development
+    category: []
   - name: Project <br> Title
     image: images/portfolio/item3.jpg
     date: Feb 2018
-    category: Web Development
+    category: []
   - name: Project <br> Title
     image: images/portfolio/item4.jpg
     date: Feb 2018
-    category: Web Development
+    category: []
   - name: Project <br> Title
     image: images/portfolio/item5.jpg
     date: Feb 2018
-    category: Web Development
+    category: []
   - name: Project <br> Title
     image: images/portfolio/item6.jpg
     date: Feb 2018
@@ -142,7 +142,7 @@ portfolio:
   - name: Project <br> Title
     image: images/portfolio/item15.jpg
     date: Feb 2018
-    category: Graphics
+    category: []
 testimonial:
   enable: true
   title: TESTIMONIALS
