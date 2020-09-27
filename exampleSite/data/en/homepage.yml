@@ -80,7 +80,13 @@ service:
     image: ''
   - name: Revit
     image: ''
-  - name: ''
+  - image: ''
+    name: Sketchup
+  - name: Lumion
+    image: ''
+  - name: V-Ray
+    image: ''
+  - name: Rhino
     image: ''
 call_to_action:
   enable: true
