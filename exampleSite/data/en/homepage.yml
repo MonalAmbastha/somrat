@@ -56,8 +56,8 @@ skill:
   skill_list:
   - name: Adobe XD
     parcentage: 75%
-  - name: Graphic Design
-    parcentage: 85%
+  - name: Figma
+    parcentage: 60%
   - name: Database Management
     parcentage: 90%
   - name: Wordpress
