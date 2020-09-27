@@ -76,8 +76,12 @@ service:
     image: images/icons/software-development.png
   - name: Balsamiq
     image: images/icons/marketing.png
-  - name: Mobile App Development
-    image: images/icons/mobile-app.png
+  - name: Autocad
+    image: ''
+  - name: ''
+    image: ''
+  - name: ''
+    image: ''
 call_to_action:
   enable: true
   bg_image: images/backgrounds/need-service.jpg
