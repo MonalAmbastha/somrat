@@ -72,7 +72,7 @@ service:
     image: images/icons/web-development.png
   - name: Logo Design
     image: images/icons/graphic-design.png
-  - name: Illustrator
+  - name: Hand Rendering
     image: images/icons/dbms.png
   - name: Photoshop
     image: images/icons/software-development.png
