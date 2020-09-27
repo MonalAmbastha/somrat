@@ -122,7 +122,7 @@ portfolio:
   - name: Project <br> Title
     image: images/portfolio/item10.jpg
     date: Feb 2018
-    category: Database
+    category: []
   - name: Project <br> Title
     image: images/portfolio/item11.jpg
     date: Feb 2018
