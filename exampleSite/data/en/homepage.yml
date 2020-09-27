@@ -68,28 +68,14 @@ service:
   enable: true
   title: TOOLS
   service_list:
+  - name: Hand Modelling
+    image: ''
   - name: Sketching
     image: images/icons/web-development.png
   - name: Logo Design
     image: images/icons/graphic-design.png
   - name: Hand Rendering
     image: images/icons/dbms.png
-  - name: Photoshop
-    image: images/icons/software-development.png
-  - name: Balsamiq
-    image: images/icons/marketing.png
-  - name: Autocad
-    image: ''
-  - name: Revit
-    image: ''
-  - image: ''
-    name: Sketchup
-  - name: Lumion
-    image: ''
-  - name: V-Ray
-    image: ''
-  - name: Rhino
-    image: ''
 call_to_action:
   enable: true
   bg_image: images/backgrounds/need-service.jpg
